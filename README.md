@@ -1,4 +1,4 @@
-# A small shopping cart app using [React.js](https://reactjs.org)
+# GitHub profile finder app using [React.js](https://reactjs.org)
 
 **GitHub Finder is a React app that helps the user to search GitHub Profiles, and It uses GitHub REST API. This app uses the class component for state management.**
 
