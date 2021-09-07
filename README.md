@@ -4,7 +4,7 @@
 
 ## Live URL :-
 
-> [Github Finder]()
+> [Github Finder](https://thirsty-lamport-a64128.netlify.app/)
 
 **OR your can do the following to run in your local machine**
 
