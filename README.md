@@ -1,12 +1,12 @@
 # GitHub profile finder app using [React.js](https://reactjs.org)
 
-**A react app that helps the user to search GitHub profiles using GitHub API. The app uses the class component for state management.**
+A react app that helps the user to search GitHub profiles using GitHub API. The app uses the class component for state management.
 
 ## Live URL :-
 
 > [Github Finder](https://thirsty-lamport-a64128.netlify.app/)
 
-**OR your can do the following to run in your local machine**
+Or your can do the following to run in your local machine
 
 ## Scripts
 
