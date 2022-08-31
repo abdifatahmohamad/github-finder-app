@@ -4,7 +4,7 @@ A react app that helps the user to search GitHub profiles using GitHub API. The 
 
 ## Live URL :-
 
-> [Github Finder](https://thirsty-lamport-a64128.netlify.app/)
+> [Github Finder](https://github-user-profile-finder-app.netlify.app/)
 
 Or your can do the following to run in your local machine
 
